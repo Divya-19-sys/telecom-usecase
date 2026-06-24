@@ -1,0 +1,6 @@
+{
+  "name": "Ticket resolver",
+  "description": "Enterprise-grade incident management system simulating ServiceNow UI with role selection, status updates, and inline actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

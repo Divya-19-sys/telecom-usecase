@@ -1,0 +1,6 @@
+{
+  "name": "Network Management System Dashboard",
+  "description": "A modern web-based UI dashboard for dynamic user and network access management across multiple enterprise telephony and communication servers like PCUCM, SCUCM, CUCM Unity, GCC CUCM, and Tangoe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "user-1782297073378",
+    "name": "Rose",
+    "employeeId": "76",
+    "email": "rose@ex.com",
+    "location": "Canada",
+    "roles": [
+      "Developer"
+    ],
+    "servers": [
+      "Tangoe"
+    ],
+    "createdAt": "2026-06-24T10:31:13.378Z"
+  },
+  {
+    "id": "user-1782198504342",
+    "name": "Praga",
+    "employeeId": "90",
+    "email": "praga@ex.com",
+    "location": "India",
+    "roles": [
+      "Manager"
+    ],
+    "servers": [
+      "Tangoe"
+    ],
+    "createdAt": "2026-06-23T07:08:24.342Z"
+  },
+  {
+    "id": "user-1782112398749",
+    "name": "Parveen",
+    "employeeId": "156",
+    "email": "parveen@ex.com",
+    "location": "USA",
+    "roles": [
+      "Developer"
+    ],
+    "servers": [],
+    "createdAt": "2026-06-22T07:13:18.749Z"
+  },
+  {
+    "id": "user-1781861786358",
+    "name": "Grey",
+    "employeeId": "56",
+    "email": "grey@gmail.com",
+    "location": "USA",
+    "roles": [
+      "Manager"
+    ],
+    "servers": [],
+    "createdAt": "2026-06-19T09:36:26.358Z"
+  },
+  {
+    "id": "user-2",
+    "name": "Ross Geller",
+    "employeeId": "EMP8492",
+    "email": "ross.g@enterprise.com",
+    "location": "USA",
+    "roles": [
+      "Manager"
+    ],
+    "servers": [],
+    "createdAt": "2026-06-13T12:51:18.753Z"
+  }
+]
